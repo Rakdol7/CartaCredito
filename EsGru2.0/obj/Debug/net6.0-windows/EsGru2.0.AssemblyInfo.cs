@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsGru2.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+142f97e50a37fe0b7011b92f7cde76ed941d7f48")]
 [assembly: System.Reflection.AssemblyProductAttribute("EsGru2.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsGru2.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

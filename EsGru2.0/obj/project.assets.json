@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PROPRIETARIO\\Downloads\\EsercizioDiProvaSkel-main\\EsGru2.0\\EsGru2.0.csproj",
+      "projectUniqueName": "C:\\Users\\PROPRIETARIO\\Desktop\\CartaCredito\\EsGru2.0\\EsGru2.0.csproj",
       "projectName": "EsGru2.0",
-      "projectPath": "C:\\Users\\PROPRIETARIO\\Downloads\\EsercizioDiProvaSkel-main\\EsGru2.0\\EsGru2.0.csproj",
+      "projectPath": "C:\\Users\\PROPRIETARIO\\Desktop\\CartaCredito\\EsGru2.0\\EsGru2.0.csproj",
       "packagesPath": "C:\\Users\\PROPRIETARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PROPRIETARIO\\Downloads\\EsercizioDiProvaSkel-main\\EsGru2.0\\obj\\",
+      "outputPath": "C:\\Users\\PROPRIETARIO\\Desktop\\CartaCredito\\EsGru2.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PROPRIETARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
