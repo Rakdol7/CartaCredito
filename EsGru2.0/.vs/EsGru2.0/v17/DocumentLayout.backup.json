@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PROPRIETARIO\\Desktop\\CartaCredito\\EsGru2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F6BE19E-6321-4A19-81ED-2B8585EFD669}|EsGru2.0.csproj|c:\\users\\proprietario\\desktop\\cartacredito\\esgru2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6F6BE19E-6321-4A19-81ED-2B8585EFD669}|EsGru2.0.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6F6BE19E-6321-4A19-81ED-2B8585EFD669}|EsGru2.0.csproj|c:\\users\\proprietario\\desktop\\cartacredito\\esgru2.0\\contocorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6BE19E-6321-4A19-81ED-2B8585EFD669}|EsGru2.0.csproj|solutionrelative:contocorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F6BE19E-6321-4A19-81ED-2B8585EFD669}|EsGru2.0.csproj|c:\\users\\proprietario\\desktop\\cartacredito\\esgru2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F6BE19E-6321-4A19-81ED-2B8585EFD669}|EsGru2.0.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F6BE19E-6321-4A19-81ED-2B8585EFD669}|EsGru2.0.csproj|c:\\users\\proprietario\\desktop\\cartacredito\\esgru2.0\\contocorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F6BE19E-6321-4A19-81ED-2B8585EFD669}|EsGru2.0.csproj|solutionrelative:contocorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F6BE19E-6321-4A19-81ED-2B8585EFD669}|EsGru2.0.csproj|c:\\users\\proprietario\\desktop\\cartacredito\\esgru2.0\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F6BE19E-6321-4A19-81ED-2B8585EFD669}|EsGru2.0.csproj|solutionrelative:carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6BE19E-6321-4A19-81ED-2B8585EFD669}|EsGru2.0.csproj|c:\\users\\proprietario\\desktop\\cartacredito\\esgru2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F6BE19E-6321-4A19-81ED-2B8585EFD669}|EsGru2.0.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\PROPRIETARIO\\Desktop\\CartaCredito\\EsGru2.0\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ContoCorrente.cs",
               "DocumentMoniker": "C:\\Users\\PROPRIETARIO\\Desktop\\CartaCredito\\EsGru2.0\\ContoCorrente.cs",
               "RelativeDocumentMoniker": "ContoCorrente.cs",
               "ToolTip": "C:\\Users\\PROPRIETARIO\\Desktop\\CartaCredito\\EsGru2.0\\ContoCorrente.cs",
               "RelativeToolTip": "ContoCorrente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T17:53:09.914Z",
               "EditorCaption": ""
@@ -62,20 +62,20 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\PROPRIETARIO\\Desktop\\CartaCredito\\EsGru2.0\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T17:53:49.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Carta.cs",
               "DocumentMoniker": "C:\\Users\\PROPRIETARIO\\Desktop\\CartaCredito\\EsGru2.0\\Carta.cs",
               "RelativeDocumentMoniker": "Carta.cs",
               "ToolTip": "C:\\Users\\PROPRIETARIO\\Desktop\\CartaCredito\\EsGru2.0\\Carta.cs",
               "RelativeToolTip": "Carta.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T17:53:08.76Z",
               "EditorCaption": ""

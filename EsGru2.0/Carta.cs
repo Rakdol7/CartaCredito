@@ -49,7 +49,12 @@ namespace EsGru2._0
             double n = conto1.Saldo - denaroPrelevato;
             if (n >= 0)
                 conto1.Saldo -= denaroPrelevato;
-            else return;
+            else
+            {
+                MessageBox.Show("Non puoi, sei povero!");
+                return;
+            }
+                    
         }
 
     }

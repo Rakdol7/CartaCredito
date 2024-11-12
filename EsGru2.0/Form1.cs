@@ -78,7 +78,16 @@ namespace EsGru2._0
 
         private void TastoBonifico_Click(object sender, EventArgs e)
         {
+            conto1.Bonifico(Convert.ToDouble(numericUpDown1.Value), conto2);
+            label2.Text = Convert.ToString(conto1.Saldo);
+            label3.Text = Convert.ToString(conto2.Saldo);
+        }
 
+        private void TastoBonifico2_Click(object sender, EventArgs e)
+        {
+            conto2.Bonifico(Convert.ToDouble(numericUpDown1.Value), conto1);
+            label2.Text = Convert.ToString(conto1.Saldo);
+            label3.Text = Convert.ToString(conto2.Saldo);
         }
     }
 }

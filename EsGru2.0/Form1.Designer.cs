@@ -39,6 +39,7 @@
             label3 = new Label();
             label4 = new Label();
             TastoBonifico = new Button();
+            TastoBonifico2 = new Button();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             SuspendLayout();
             // 
@@ -149,19 +150,30 @@
             // 
             // TastoBonifico
             // 
-            TastoBonifico.Location = new Point(218, 174);
+            TastoBonifico.Location = new Point(63, 206);
             TastoBonifico.Name = "TastoBonifico";
             TastoBonifico.Size = new Size(122, 52);
             TastoBonifico.TabIndex = 11;
-            TastoBonifico.Text = "Bonifico";
+            TastoBonifico.Text = "Bonifico Conto 1";
             TastoBonifico.UseVisualStyleBackColor = true;
             TastoBonifico.Click += TastoBonifico_Click;
+            // 
+            // TastoBonifico2
+            // 
+            TastoBonifico2.Location = new Point(325, 206);
+            TastoBonifico2.Name = "TastoBonifico2";
+            TastoBonifico2.Size = new Size(122, 52);
+            TastoBonifico2.TabIndex = 12;
+            TastoBonifico2.Text = "Bonifico Conto 2";
+            TastoBonifico2.UseVisualStyleBackColor = true;
+            TastoBonifico2.Click += TastoBonifico2_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(560, 270);
+            Controls.Add(TastoBonifico2);
             Controls.Add(TastoBonifico);
             Controls.Add(label3);
             Controls.Add(label4);
@@ -194,5 +206,6 @@
         private Label label3;
         private Label label4;
         private Button TastoBonifico;
+        private Button TastoBonifico2;
     }
 }
